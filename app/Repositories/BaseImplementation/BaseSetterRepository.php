@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Repositories\Interfaces\BaseImplementation;
+namespace App\Repositories\BaseImplementation;
 
 use App\Repositories\Interfaces\BaseInterfaces\BaseSetterInterface;
 
